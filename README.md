@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ublockedslackrr&show_icons=true&theme=dracula)
 [![games logo](https://github.com/ublockedslackrr/ublockedslackrr/blob/main/1.png?raw=true)](https://ublockedslackrr.github.io/Games.html)
 
-## Slackrr | an open source web hoster, dedicated to hosting things varing from:
+# Slackrr | an open source web hoster, dedicated to hosting things varing from:
 - 300+ **Unblocked** Games,
 - 60 albums of music **Free** Streaming,
 - 12 Tv shows **Free** streaming,
