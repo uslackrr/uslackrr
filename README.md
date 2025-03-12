@@ -3,8 +3,11 @@
 
 # Slackrr | an open source web hoster, dedicated to hosting things varing from:
 - 300+ **Unblocked** Games,
-- 60 albums of music **Free** Streaming,
-- 12 Tv shows **Free** streaming,
-- 3 **anime** series **free streaming**.
-
+- **UPCOMING** 60 albums of music **Free** Streaming,
+- **UPCOMING** 12 Tv shows **Free** streaming,
+- **UPCOMING** 3 **anime** series **free streaming**.
+- dr. stone season 1 to 4
+- 
+## development
+this project is not funded but open source, ill do my best to implement all these features into the website by 2026 or earlier but i want to get this done by christmas. Make sure to recommend this website to all your friends and family for other people to enjoy!
 ![slackrr logo](https://github.com/ublockedslackrr/ublockedslackrr/blob/main/2.png?raw=true)
