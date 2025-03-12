@@ -1,3 +1,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ublockedslackrr&show_icons=true&theme=dracula)
-![hello](https://github.com/ublockedslackrr/ublockedslackrr/blob/main/slackrrgames.png?raw=true)
-<a href="https://ublockedslackrr.github.io./"><img src="slackrr.png"></a>
+![hello](https://github.com/ublockedslackrr/ublockedslackrr/blob/main/1.png?raw=true)
+![hello](https://github.com/ublockedslackrr/ublockedslackrr/blob/main/2.png?raw=true)
