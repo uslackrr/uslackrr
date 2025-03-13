@@ -1,5 +1,5 @@
-[![games logo](https://github.com/ublockedslackrr/ublockedslackrr/blob/main/1.png?raw=true)](https://ublockedslackrr.github.io/Games.html)
 [![slackrr logo](https://github.com/ublockedslackrr/ublockedslackrr/blob/main/2.png?raw=true)](https://ublockedslackrr.github.io./index.html)
+[![games logo](https://github.com/ublockedslackrr/ublockedslackrr/blob/main/1.png?raw=true)](https://ublockedslackrr.github.io/Games.html)
 
 # Slackrr | an open source web hoster, dedicated to hosting things varing from:
 - 300+ **Unblocked** Games,
