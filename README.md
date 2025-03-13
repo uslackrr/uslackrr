@@ -13,6 +13,7 @@ this project is not funded but open source, ill do my best to implement all thes
 
 -slackrr
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ublockedslackrr&show_icons=true&theme=dracula)
+# github Stats
+![](https://github-readme-stats.vercel.app/api?username=ublockedslackrr&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ublockedslackrr&layout=compact&show_icons=true&theme=dracula)
 
