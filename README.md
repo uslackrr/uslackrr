@@ -4,17 +4,16 @@
 [![](https://github.com/uslackrr/uslackrr.github.io/blob/main/images/README/selenite.png)](https://github.com/repositoryrepos/Game-Library)
 ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/quote.png)
 # Popular Games Include Of:
-  [![](https://github.com/uslackrr/uslackrr/blob/main/1v1-game.jpeg)](https://ublockedslackrr.github.io./games/venge/index.html)
-  [![](https://github.com/uslackrr/uslackrr/blob/main/1v1-banner.jpeg)](https://ublockedslackrr.github.io./games/venge/index.html)
-
-  [![](https://github.com/uslackrr/uslackrr/blob/main/venge-game.jpeg)](https://ublockedslackrr.github.io./games/venge/index.html)
-  [![](https://github.com/uslackrr/uslackrr/blob/main/VENGE.jpeg)](https://ublockedslackrr.github.io./games/venge/index.html)
+  [![](https://github.com/uslackrr/v1-o-3/blob/main/images/README/popular-games.png)](https://ublockedslackrr.github.io./games/venge/index.html)
+- 1v1.lol
+- venge.io
 - OvO
 - Monkey Mart
 - Friday Night Funkin'
-- And 12 Fnf Mods!
+- 32 Fnf Mods
+- And 450 games!
 
-# Version 1.o.3 OUT BY MARCH 30TH!!
+# Version 1.o.3 OUT BY APRIL 5TH!!
 ## New Games:
 - 25 *NEW* .io games
 - 17 *NEW* FNF MODS
